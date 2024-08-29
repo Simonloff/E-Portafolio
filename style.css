@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #38393c;
+  background-color: #333;
   color: #333;
 }
 
@@ -27,12 +27,12 @@ h2 {
 section {
   margin: 20px;
   padding: 20px;
-  background-color: #fff;
+  background-color: #333;
   border-radius: 8px;
 }
 
 footer {
-  background-color: #38393c;
+  background-color: #333;
   color: #fff;
   text-align: center;
   padding: 10px;
